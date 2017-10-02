@@ -48,6 +48,6 @@ end
 Your method should behave the same way––iterating over the given collection and passing each member to the given block––regardless of the content of the collection or the nature of the block.
 
 
-Make sure to run bundle install before running your tests.
+Make sure to run `bundle install` before running your tests.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/my-collect' title='My #collect'>My `#collect`</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/my-collect'>Collect Lab</a> on Learn.co and start learning to code for free.</p>
